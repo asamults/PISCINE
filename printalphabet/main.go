@@ -10,5 +10,5 @@ func main() {
 	for ch := 'a'; ch <= 'z'; ch++ {
 		z01.PrintRune(ch)
 	}
-	fmt.Println() // Corrected: Use fmt.Println to print a newline
+	fmt.Println() 
 }
