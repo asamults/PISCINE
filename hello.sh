@@ -1,1 +1,2 @@
-Hello AnatolySamultsov!
+#!/bin/bash
+echo "Hello AnatolySamultsov!"
